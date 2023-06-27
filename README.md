@@ -1,6 +1,3 @@
-# Script-to-change-of-maps-on-Cesco-Leak
-Interactive carousel in JavaScript to display maps with "Next" and "Previous" navigation.
-
 # Interactive Carousel for Cesco-Link
 
 This project contains an interactive carousel developed in JavaScript for the AsterJDM organization at Cesco-Link. It allows displaying custom cards with smooth navigation using the "Next" and "Previous" buttons.
