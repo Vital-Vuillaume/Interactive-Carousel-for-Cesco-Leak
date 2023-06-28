@@ -10,7 +10,7 @@ This project contains an interactive carousel developed in JavaScript for the As
 
 ## Credits
 
-This project was created by the AsterJDM organization of Cesco-Link. Feel free to check out our [GitHub profile](https://github.com/AsterJDM) for other interesting projects.
+This project was created by the AsterJDM organization of Cesco-Link. Feel free to check out our [GitHub profile](https://github.com/AsterJDM/Cesco-Leak) for other interesting projects.
 
 ## Contribution
 
