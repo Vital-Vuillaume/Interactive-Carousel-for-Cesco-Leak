@@ -1,4 +1,4 @@
-# Interactive Carousel for Cesco-Link
+# Interactive Carousel for Cesco-Leak
 
 This project contains an interactive carousel developed in JavaScript for the AsterJDM organization at Cesco-Link. It allows displaying custom cards with smooth navigation using the "Next" and "Previous" buttons.
 
