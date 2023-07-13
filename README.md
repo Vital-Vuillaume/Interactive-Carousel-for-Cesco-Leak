@@ -1,6 +1,6 @@
 # Interactive Carousel for Cesco-Leak
 
-This project contains an interactive carousel developed in JavaScript for the AsterJDM organization at Cesco-Link. It allows displaying custom cards with smooth navigation using the "Next" and "Previous" buttons.
+This project contains an interactive carousel developed in JavaScript for the AsterJDM organization at Cesco-Leak. It allows displaying custom cards with smooth navigation using the "Next" and "Previous" buttons.
 
 ## Features
 
@@ -10,7 +10,7 @@ This project contains an interactive carousel developed in JavaScript for the As
 
 ## Credits
 
-This project was created by the AsterJDM organization of Cesco-Link. Feel free to check out our [GitHub profile](https://github.com/AsterJDM/Cesco-Leak) for other interesting projects.
+This project was created by the AsterJDM organization of Cesco-Leak. Feel free to check out our [GitHub profile](https://github.com/AsterJDM/Cesco-Leak) for other interesting projects.
 
 ## Contribution
 
