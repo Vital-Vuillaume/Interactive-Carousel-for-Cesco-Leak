@@ -14,4 +14,6 @@ This project was created by the AsterJDM organization of Cesco-Leak. Feel free t
 
 ## Contribution
 
-Contributions are welcome! If you would like to improve this interactive carousel, please submit a pull request. We appreciate your help.
+I am open to contributions and suggestions to improve this site:
+
+1. You can fork the site.
