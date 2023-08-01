@@ -1,9 +1,17 @@
-// Sélection des éléments bouton et conteneur
+//------pour que le site soit securise------\\
+
+/*if (window.location.protocol != "https:") {
+  window.location.protocol="https:";
+}*/
+
+//------Element html------\\
+
 const nextButton = document.querySelector('.next');
 const prevButton = document.querySelector('.before');
 const container = document.querySelector('.container');
 
-// Tableau des cartes
+//------Tableau des cartes------\\
+
 const cards = [
   {
     name: "John Doe",
@@ -24,7 +32,8 @@ const cards = [
 
 let currentIndex = 0;
 
-// Fonction pour afficher la carte actuelle
+//------Fonction pour afficher la carte actuelle------\\
+
 function showCurrentCard() {
   const currentCard = cards[currentIndex];
   
@@ -44,17 +53,20 @@ function showCurrentCard() {
   });
 }
 
-// Événement pour le bouton "Suivant"
+//------Evenement pour le bouton suivant------\\
+
 nextButton.addEventListener('click', () => {
   currentIndex = (currentIndex + 1) % cards.length;
   showCurrentCard();
 });
 
-// Événement pour le bouton "Précédent"
+//------Evenement pour le bouton precedent------\\
+
 prevButton.addEventListener('click', () => {
   currentIndex = (currentIndex - 1 + cards.length) % cards.length;
   showCurrentCard();
 });
 
-// Afficher la première carte au chargement de la page
+//------Lancer la fonction------\\
+
 showCurrentCard();
