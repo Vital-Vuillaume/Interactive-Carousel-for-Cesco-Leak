@@ -2,6 +2,12 @@
 
 This project contains an interactive carousel developed in JavaScript for the AsterJDM organization at Cesco-Leak. It allows displaying custom cards with smooth navigation using the "Next" and "Previous" buttons.
 
+## Technologies Used
+
+**This site was developed using the following technologies:**
+
+[![My Skills](https://skillicons.dev/icons?i=js)](https://github.com/Vital-Vuillaume)
+
 ## Features
 
 - Display custom cards with names, images, and ratings.
