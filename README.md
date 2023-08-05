@@ -20,6 +20,10 @@ This project was created by the AsterJDM organization of Cesco-Leak. Feel free t
 
 ## Contribution
 
-I am open to contributions and suggestions to improve this site:
+- ### I am open to contributions and suggestions to improve this site:
 
-1. You can fork the script.
+  **1. You can fork the site.**
+
+## Acknowledgments
+
+**Feel free to explore the site and share your feedback. I hope you enjoy your visit!**
